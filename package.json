@@ -2,7 +2,7 @@
   "name": "automated-testing-app",
   "version": "0.0.1",
   "description": "Boilerplate for the Quality Assurance and Testing with Chai challenges",
-  "main": "ser.js",
+  "main": "sedsadada",
   "scripts": {
     "start": "node server.js"
   },
